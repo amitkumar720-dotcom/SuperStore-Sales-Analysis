@@ -1,0 +1,20 @@
+Superstore Sales Analysis – Key Insights
+
+1. The West region generated the highest profit, accounting for 32.8% of total profit across all regions.
+
+2. California alone contributed 19.6% of total sales, but had below-average profit margins due to higher discounts.
+
+3. Products with more than 20% discount showed a 15% average drop in profit margins, especially in Office Supplies.
+
+4. The Technology category produced the highest revenue, driven by Phone and Accessories sub-categories.
+
+5. Standard Class shipping was used in 60% of all orders but had the slowest average delivery time (4.3 days).
+
+6. November and December had peak sales, indicating strong holiday season demand.
+
+7. Furniture had high sales but low profit, suggesting over-discounting or high logistics costs.
+
+8. Binders and Chairs sub-categories showed poor profit performance despite high volume, suggesting low pricing efficiency.
+
+Tools Used: SQL for data extraction and Power BI for visual analysis.
+
